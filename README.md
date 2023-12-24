@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm HFrost0 👋
 
 <!--
 **HFrost0/HFrost0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I'm currently working as a Software Developer, specializing in Python and GoLang.
+- 🌱 I'm deeply interested in Machine Learning.
+- 💬 Happy to discuss anything related to Engineering, ML, or tech in general.
+
