@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I'm currently working as a Software Developer, specializing in Python and GoLang.
+- 🔭 I'm currently working as a Software Developer.
 - 🌱 I'm deeply interested in Machine Learning.
 - 💬 Happy to discuss anything related to Engineering, ML, or tech in general.
 
